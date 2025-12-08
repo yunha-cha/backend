@@ -13,7 +13,8 @@
 
 ### 🌟 서비스 소개
 "플로깅(Plogging)을 통해 환경 보호와 건강을 동시에 실천하는 플랫폼"
-- 플로깅은 **조깅(Jogging)**과 **줍다(Plocka upp)**의 합성어로, 조깅하면서 쓰레기를 줍는 친환경 운동입니다.
+- 플로깅은 **조깅(Jogging)** 과 **줍다(Plocka upp)** 의 합성어로, 조깅하면서 쓰레기를 줍는 친환경 운동입니다.
+
 
 ### 📈 배경 및 필요성
 - **환경 문제 심각성**: 한강공원 쓰레기 2달새 892톤 수거, 제주시 클린올레 수거 현황 증가 추세
@@ -160,7 +161,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ae8471fd-73c8-45cf-81ba-9ff5015614af" width="250"/> |<img src="https://github.com/user-attachments/assets/5ef0b391-33e5-4525-916f-62c626a78906" width="250"/> | <img src="https://github.com/user-attachments/assets/c3c54205-9d2d-4217-8ef1-78d74520ee2a" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/ae8471fd-73c8-45cf-81ba-9ff5015614af" width="270"/> |<img src="https://github.com/user-attachments/assets/5ef0b391-33e5-4525-916f-62c626a78906" width="270"/> | <img src="https://github.com/user-attachments/assets/c3c54205-9d2d-4217-8ef1-78d74520ee2a" width="270"/> |
 | 산책로 맞춤형 검색 | 산책로 추천 | 산책로 상세 |
 
 ---
@@ -173,7 +174,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/a09ee0c8-87e2-4b84-890d-1d8c4c91a72a" width="250"/> |<img src="https://github.com/user-attachments/assets/06478173-8e08-4a5c-b431-f8b9ace17716" width="250"/> | <img src="https://github.com/user-attachments/assets/be33094a-2d35-4dbd-8756-b7ce53a20d49" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/a09ee0c8-87e2-4b84-890d-1d8c4c91a72a" width="250"/> |<img src="https://github.com/user-attachments/assets/06478173-8e08-4a5c-b431-f8b9ace17716" width="310"/> | <img src="https://github.com/user-attachments/assets/be33094a-2d35-4dbd-8756-b7ce53a20d49" width="250"/> |
 | 내 위치 정보 | 이동 경로 표시 | 플로깅 경로 기록 |
 
 ---
@@ -187,7 +188,7 @@
 
 | | |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/c1168dab-08e3-4a92-9f77-1764efc0921a" width="330"/> | <img src="https://github.com/user-attachments/assets/f4f0a885-f1e5-4b0d-ab30-6118b880ff4b" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/c1168dab-08e3-4a92-9f77-1764efc0921a" width="360"/> | <img src="https://github.com/user-attachments/assets/bfddc2df-c893-4ad2-ac6c-ded91ebd494d" width="290"/> |
 | 쓰레기 개수 및 종류 탐지 | 쓰레기 위치 자동 입력 |
 
 ---
@@ -235,24 +236,17 @@
 
 ---
 
-## 팀원 소개 및 역할
+## 👥 팀원 소개 및 역할
 
-### Team JUP
+## Team JUP
 
-**이정원** - Yolo 모델 학습, 자연어 처리 및 데이터 추천 모델, API 연결 및 상태관리  
-_프론트엔드/AI / UI 관리자_
-
-**차윤하** - Open API 데이터 수집 및 가공, 위치 및 정보 필터링 제공, REST API 설계 및 구현  
-_백엔드 / DB 관리자_
-
-**엄윤호** - 플로깅 관리 구현, UI/UX 구성  
-_프론트엔드 / 형상 관리자_
-
-**김승환** - CI/CD 구축, HTTPS 적용
-_백엔드 / 배포 관리자_
-
-**오정재** -  쓰레기 제보 기능 구현, 회원 기능 구현
-_백엔드 / 문서 관리자_
+| 이름 | 역할 | 주요 담당 |
+|------|-----------|------------|
+| **이정원** | Frontend / AI | Yolo 모델 학습, 자연어 처리, 데이터 추천 모델 개발 |
+| **차윤하** | Backend / DB | Open API 데이터 수집 및 가공, 위치·정보 기반 필터링, REST API 설계 및 구현 |
+| **엄윤호** | Frontend / UI | 플로깅 관리 기능 구현, UI/UX 설계, 형상 관리 |
+| **김승환** | DevOps | CI/CD 구축, HTTPS 적용, 서버 배포 환경 구성 |
+| **오정재** | Backend / Documentation | 쓰레기 제보 기능 구현, 회원 기능 구현 |
 
 ---
 
