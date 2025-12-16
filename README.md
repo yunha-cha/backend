@@ -93,19 +93,21 @@
 ![React Native](https://img.shields.io/badge/React_Native-0.80.1-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-20.13.1-339933?logo=nodedotjs&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-1.11.0-5A29E4?logo=axios&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-5.0.6-000000?logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-5.0.6-443E38?logo=react&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17.0.12-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.4-6DB33F?logo=springboot&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-8.14.3-02303A?logo=gradle&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-3.0.4-000000?logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-3.0.4-271D13?logo=databricks&logoColor=white)
 
 ### AI & Data
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-009688?logo=fastapi&logoColor=white)
-![YOLO V8](https://img.shields.io/badge/YOLO_V8-00FFFF?logoColor=black)
-![Rank-BM25](https://img.shields.io/badge/Rank--BM25-0.2.2-4B8BBE?logoColor=white)
+![YOLO V8](https://img.shields.io/badge/YOLO_V8-00FFFF?logo=yolo&logoColor=black)
+![Kiwi](https://img.shields.io/badge/Kiwi_NLP-0.20.0-4B8BBE?logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-11.3.0-3776AB?logo=python&logoColor=white)
+![Rank-BM25](https://img.shields.io/badge/Rank--BM25-0.2.2-4B8BBE?logo=elasticsearch&logoColor=white)
 
 ### Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
@@ -117,6 +119,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-1.29.0-009639?logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 
 ### Tools & Collaboration
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
