@@ -1,4 +1,4 @@
-# 🌏 Jupging - 환경 보호와 건강을 위한 플로깅 플랫폼
+# 🌏 Jupging - 환경 보호와 건강을 위한 플로깅 앱
 
 **나와 지구가 함께 건강해지는 시간**
 
@@ -89,53 +89,41 @@
 
 ### 기술 스택
 
-#### Frontend
-- React Native 0.80.1
-- React Native Seoul 5.4.1
-- React Native Maps 1.25.0
-- React Native Async Storage 2.2.0
-- React Native Geolocation Service 5.3.1
-- Axios 1.11.0
-- Zustand 5.0.6
-- Node.js 20.13.1
-- HTML5 / CSS3 / JavaScript
+### Frontend
+![React Native](https://img.shields.io/badge/React_Native-0.80.1-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20.13.1-339933?logo=nodedotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-1.11.0-5A29E4?logo=axios&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-5.0.6-000000?logoColor=white)
 
-#### Backend (API 서버)
-- Java 17.0.12
-- Spring Boot 3.5.4
-- Spring Data JPA
-- Lombok
-- MyBatis 3.0.4
-- Swagger 2.5.0
-- Gradle 8.14.3
+### Backend
+![Java](https://img.shields.io/badge/Java-17.0.12-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.4-6DB33F?logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-8.14.3-02303A?logo=gradle&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-3.0.4-000000?logoColor=white)
 
-#### AI 서버
-- Python 3.13
-- FastAPI 0.116.1
-- Kiwi (형태소 분석) / NNP 0.20.0
-- Pillow 11.3.0
-- Rank-BM25 0.2.2
-- YOLOv8
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-009688?logo=fastapi&logoColor=white)
+![YOLO V8](https://img.shields.io/badge/YOLO_V8-00FFFF?logoColor=black)
+![Rank-BM25](https://img.shields.io/badge/Rank--BM25-0.2.2-4B8BBE?logoColor=white)
 
-#### 인프라 & 데브옵스
-- Nginx 1.29.0
-- Certbot 4.2.0
-- Docker
-- GitHub Actions
-- Ubuntu 24.04
-- AWS EC2
-- AWS S3
-- AWS ECR
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8.2.0-DC382D?logo=redis&logoColor=white)
 
-#### 데이터베이스
-- Oracle
-- Redis 8.2.0
+### Infrastructure
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-1.29.0-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-#### 협업 및 디자인
-- GitHub
-- Discord
-- Figma
-- Jira
+### Tools & Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
 
 ### 아키텍처 구조
 
